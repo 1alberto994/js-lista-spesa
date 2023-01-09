@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1000px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: red;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+ul li{
+    color: red;
+    font-size: 2rem;
+}
